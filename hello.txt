@@ -1,6 +1,6 @@
 hello git!
 hello ricky!haha
-hello ricky!
+hello ricky!hot-fix test
 hello ricky!
 hello ricky!33333
 hello ricky!22222
